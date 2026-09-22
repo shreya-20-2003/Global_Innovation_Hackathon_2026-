@@ -6,7 +6,7 @@
 
 ### 🌐 Live Demo
 
-**https://infinity-hack-git-main-rahul810840-5774s-projects.vercel.app/**
+**https://infinity-hack-puce.vercel.app/**
 
 ### 📑 Project Presentation
 

@@ -1,4 +1,4 @@
-# 🛡️ KAVACH — Predictive Wildlife Conflict & Conservation Intelligence
+🛡️ KAVACH — Predictive Wildlife Conflict & Conservation Intelligence
 
 > **DETECT • PREDICT • PREVENT**
 
